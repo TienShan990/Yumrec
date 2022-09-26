@@ -31,8 +31,8 @@ body {
   }
 
  .yumrec {
-width: 100px;
-border-radius: 28px;
+width: 75px;
+border-radius: 12px;
 box-shadow: 4px 4px 14px rgba(0, 0,0, .25);
 }
 
