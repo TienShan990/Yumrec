@@ -1,0 +1,86 @@
+body {
+    /* font-family: Vedana,Tahoma,Geneva,sans-serif; */
+    font-family: 'Tahoma';
+    font-size: 16px;
+    font-weight: normal;
+    background: #f1f1f1;
+    color: #0f141e;
+  }
+
+  a{
+    color: #000;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:active{
+    color: blue;
+  }
+  
+  a:visited {
+    color: grey
+  }
+  
+  .container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+  }
+
+.yumrecinc {
+width: 100px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0, 0,0, .25);
+}
+
+   .info {
+    margin-bottom: 20px;
+  }
+
+  .info-text p{
+    font-style: italic;
+    font-weight: bold;
+    color: #86898f;
+    margin: 0;
+  }
+  .info-text h4 {
+      margin-bottom: 10px;
+    }
+  
+  .card{
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+  }
+
+.card h2 {
+  margin-bottom: 10px
+}
+
+  .bg-lightyellow {
+  background: #eee9ce
+}
+
+  .bg-yellow {
+    background: #fff9dc;
+  }
+
+  .bg-green {
+    background: #e5ffe7;
+  }
+
+  .btn {
+background: #111;
+padding: 15px 20px;
+color: #fff;
+border: none;
+font-family: inherit;
+cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
