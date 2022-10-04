@@ -31,8 +31,9 @@ a:visited {
   padding-top: 30px;
 }
 
-.yumrecinc{
-  width: 100px;
+.yumrecinc {
+  width: 200px;
+  height: 200px
   display: block;
   margin: 40px auto;
   border-radius: 28px;
